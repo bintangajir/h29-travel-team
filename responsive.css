@@ -198,11 +198,11 @@
     }
 
     .banner h1 {
-        font-size: 6vw;
+        font-size: 4vw;
     }
 
     .bannerInnerText {
-        font-size: 3.5vw !important;
+        font-size: 2.5vw !important;
     }
 
     .bannerText img {
@@ -210,7 +210,8 @@
     }
 
     .bannerImg img {
-        width: 26vw;
+        padding-top: 40px;
+        width: 20vw;
     }
 
     .footer {
